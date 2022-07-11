@@ -1,0 +1,17 @@
+*{
+  margin:0;
+  padding:0;
+}
+h2,p{
+  text-align:center;
+}
+h2{
+    font-family:sans-serif;
+    font-weight:700;
+    font-size:27px;
+}
+p{
+  font-family:system-ui;
+    font-weight:500;
+    font-size:19px;
+}
